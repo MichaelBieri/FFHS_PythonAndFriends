@@ -1,3 +1,4 @@
 # FFHS_PythonAndFriends
-
-Regelmaessige Abgaben
+Zwei Ordner:
+1. Uebungen
+2. Abgaben
