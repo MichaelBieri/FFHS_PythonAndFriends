@@ -1,6 +1,3 @@
-import numpy as np
-liste = [12,23,234,543,583,984,132,431] #fuer alle Funktionensbeispiele
-
 ### Arithmetrischs Mittel = mean
 def mean(values):
     total = sum(values)
@@ -97,5 +94,5 @@ def variationskoeffizient(values):
     return variationskoeffizient_wert
 
 #Beispiel
-Beispiel_variationskoeffizient = variationskoeffizient(liste)
-print("Der variationskoeffizient der liste ist:", Beispiel_variationskoeffizient)
+#Beispiel_variationskoeffizient = variationskoeffizient(liste)
+#print("Der variationskoeffizient der liste ist:", Beispiel_variationskoeffizient)
